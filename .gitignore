@@ -1,2 +1,5 @@
 # ignore references papers
 references/
+
+# ignore clone 
+clone/
