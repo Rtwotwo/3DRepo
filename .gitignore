@@ -1,2 +1,5 @@
 # ignore references papers
-# papers/
+papers/
+
+# ignore data
+NotreDame/
