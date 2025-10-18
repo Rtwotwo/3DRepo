@@ -1,0 +1,11 @@
+[submodule "diff-gaussian-rasterization"]
+	path = diff-gaussian-rasterization
+	url = https://github.com/graphdeco-inria/diff-gaussian-rasterization
+
+[submodule "simple-knn"]
+	path = simple-knn
+	url = https://github.com/camenduru/simple-knn
+
+[submodule "tetra-triangulation"]
+	path = tetra-triangulation
+	url = https://github.com/jkulhanek/tetra-nerf

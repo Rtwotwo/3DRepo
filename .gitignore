@@ -1,5 +1,8 @@
-# ignore references papers
-papers/
-
 # ignore data
 NotreDame/
+
+# ignore papers
+papers/
+
+# ignore data folder
+data/
