@@ -1,8 +1,8 @@
-# ignore data
-NotreDame/
-
 # ignore papers
 papers/
 
 # ignore data folder
 data/
+
+# ignore clone folder
+clone/
