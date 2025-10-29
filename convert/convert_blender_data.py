@@ -33,7 +33,6 @@ def load_rendering_data(data_dir:str, split:str)->Dict[np.ndarray, Union[np.ndar
     ret = {}
     # 将图像列表堆叠成形状为(N, H, W, C)的4D数组
     ret['images'] = np.stack(images, axis=0)
-    print(f'图像相机数据加载完毕,数据形状{ret['images'].shape}')
     ret['cameras_to_worlds'] = np.stack(cameras, axis=0)
     img_width = ret['images'].shape[2]
     camera_angle_x = float(meta['camera_angle_x'])
