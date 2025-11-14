@@ -4,5 +4,5 @@ papers/
 # ignore data folder
 data/
 
-# ignore clone folder
-# clone/
+# ignore ply folder
+ply/
